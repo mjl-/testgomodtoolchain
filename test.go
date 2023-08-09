@@ -1,5 +1,4 @@
-package testgomodtoolchain
+package main
 
-func Hello() string {
-	return "world"
+func main() {
 }
